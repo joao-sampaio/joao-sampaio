@@ -8,10 +8,8 @@
   
   ### About me:
   
-  <p>Hello there! My name is João Sampaio</p>
-  <p>and i'm 19 years old.</p>
-  <p>I'm from Teresina - PI, Brazil</p>
-  <p>Currently student of Web development Full-Stack at Trybe.</p>
+  <p>Name is João Sampaio.</p>
+  <p>Currently student of engineering.</p>
   
 
   
